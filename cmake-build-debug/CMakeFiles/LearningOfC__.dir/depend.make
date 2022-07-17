@@ -28,6 +28,36 @@ CMakeFiles/LearningOfC__.dir/12.浅拷贝.cpp.o: ../12.浅拷贝.cpp
 
 CMakeFiles/LearningOfC__.dir/13.深拷贝.cpp.o: ../13.深拷贝.cpp
 
+CMakeFiles/LearningOfC__.dir/14.可变参数.cpp.o: ../14.可变参数.cpp
+
+CMakeFiles/LearningOfC__.dir/15.静态变量和静态方法.cpp.o: ../15.静态变量和静态方法.cpp
+CMakeFiles/LearningOfC__.dir/15.静态变量和静态方法.cpp.o: ../TestStatic.h
+
+CMakeFiles/LearningOfC__.dir/16.const修饰方法.cpp.o: ../16.const修饰方法.cpp
+
+CMakeFiles/LearningOfC__.dir/17.友元函数.cpp.o: ../17.友元函数.cpp
+
+CMakeFiles/LearningOfC__.dir/18.友元类.cpp.o: ../18.友元类.cpp
+
+CMakeFiles/LearningOfC__.dir/19.函数总结.cpp.o: ../19.函数总结.cpp
+CMakeFiles/LearningOfC__.dir/19.函数总结.cpp.o: ../TestMethod.h
+
+CMakeFiles/LearningOfC__.dir/20.类外运算符重载.cpp.o: ../20.类外运算符重载.cpp
+
+CMakeFiles/LearningOfC__.dir/21.类内运算符重载.cpp.o: ../21.类内运算符重载.cpp
+
+CMakeFiles/LearningOfC__.dir/22.继承.cpp.o: ../22.继承.cpp
+
+CMakeFiles/LearningOfC__.dir/23.多继承.cpp.o: ../23.多继承.cpp
+
+CMakeFiles/LearningOfC__.dir/24.虚基类.cpp.o: ../24.虚基类.cpp
+
 CMakeFiles/LearningOfC__.dir/Manager.cpp.o: ../Manager.cpp
 CMakeFiles/LearningOfC__.dir/Manager.cpp.o: ../Manager.h
+
+CMakeFiles/LearningOfC__.dir/TestMethod.cpp.o: ../TestMethod.cpp
+CMakeFiles/LearningOfC__.dir/TestMethod.cpp.o: ../TestMethod.h
+
+CMakeFiles/LearningOfC__.dir/TestStatic.cpp.o: ../TestStatic.cpp
+CMakeFiles/LearningOfC__.dir/TestStatic.cpp.o: ../TestStatic.h
 

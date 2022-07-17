@@ -117,10 +117,55 @@
 		<Unit filename="/Users/renzhenming/CLionProjects/LearningOfC++/13.深拷贝.cpp">
 			<Option target="LearningOfC__"/>
 		</Unit>
+		<Unit filename="/Users/renzhenming/CLionProjects/LearningOfC++/14.可变参数.cpp">
+			<Option target="LearningOfC__"/>
+		</Unit>
+		<Unit filename="/Users/renzhenming/CLionProjects/LearningOfC++/15.静态变量和静态方法.cpp">
+			<Option target="LearningOfC__"/>
+		</Unit>
+		<Unit filename="/Users/renzhenming/CLionProjects/LearningOfC++/16.const修饰方法.cpp">
+			<Option target="LearningOfC__"/>
+		</Unit>
+		<Unit filename="/Users/renzhenming/CLionProjects/LearningOfC++/17.友元函数.cpp">
+			<Option target="LearningOfC__"/>
+		</Unit>
+		<Unit filename="/Users/renzhenming/CLionProjects/LearningOfC++/18.友元类.cpp">
+			<Option target="LearningOfC__"/>
+		</Unit>
+		<Unit filename="/Users/renzhenming/CLionProjects/LearningOfC++/19.函数总结.cpp">
+			<Option target="LearningOfC__"/>
+		</Unit>
+		<Unit filename="/Users/renzhenming/CLionProjects/LearningOfC++/20.类外运算符重载.cpp">
+			<Option target="LearningOfC__"/>
+		</Unit>
+		<Unit filename="/Users/renzhenming/CLionProjects/LearningOfC++/21.类内运算符重载.cpp">
+			<Option target="LearningOfC__"/>
+		</Unit>
+		<Unit filename="/Users/renzhenming/CLionProjects/LearningOfC++/22.继承.cpp">
+			<Option target="LearningOfC__"/>
+		</Unit>
+		<Unit filename="/Users/renzhenming/CLionProjects/LearningOfC++/23.多继承.cpp">
+			<Option target="LearningOfC__"/>
+		</Unit>
+		<Unit filename="/Users/renzhenming/CLionProjects/LearningOfC++/24.虚基类.cpp">
+			<Option target="LearningOfC__"/>
+		</Unit>
 		<Unit filename="/Users/renzhenming/CLionProjects/LearningOfC++/Manager.cpp">
 			<Option target="LearningOfC__"/>
 		</Unit>
 		<Unit filename="/Users/renzhenming/CLionProjects/LearningOfC++/Manager.h">
+			<Option target="LearningOfC__"/>
+		</Unit>
+		<Unit filename="/Users/renzhenming/CLionProjects/LearningOfC++/TestMethod.cpp">
+			<Option target="LearningOfC__"/>
+		</Unit>
+		<Unit filename="/Users/renzhenming/CLionProjects/LearningOfC++/TestMethod.h">
+			<Option target="LearningOfC__"/>
+		</Unit>
+		<Unit filename="/Users/renzhenming/CLionProjects/LearningOfC++/TestStatic.cpp">
+			<Option target="LearningOfC__"/>
+		</Unit>
+		<Unit filename="/Users/renzhenming/CLionProjects/LearningOfC++/TestStatic.h">
 			<Option target="LearningOfC__"/>
 		</Unit>
 		<Unit filename="/Users/renzhenming/CLionProjects/LearningOfC++/CMakeLists.txt">

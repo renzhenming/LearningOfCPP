@@ -51,7 +51,7 @@ void showTeacher(Teacher teacher) {
     cout << "showTeacher：" << (long) &teacher << "  " << teacher.name << "," << teacher.age << endl;
 }
 
-int main() {
+int main13() {
 
     //会导致name被释放两次，所以报错
     Teacher teacher("王武", 13);

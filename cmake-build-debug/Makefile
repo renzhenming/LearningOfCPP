@@ -494,6 +494,303 @@ LearningOfC__/fast:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/LearningOfC__.dir/build.make CMakeFiles/LearningOfC__.dir/13.深拷贝.cpp.s
 .PHONY : 13.深拷贝.cpp.s
 
+14.可变参数.o: 14.可变参数.cpp.o
+
+.PHONY : 14.可变参数.o
+
+# target to build an object file
+14.可变参数.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/LearningOfC__.dir/build.make CMakeFiles/LearningOfC__.dir/14.可变参数.cpp.o
+.PHONY : 14.可变参数.cpp.o
+
+14.可变参数.i: 14.可变参数.cpp.i
+
+.PHONY : 14.可变参数.i
+
+# target to preprocess a source file
+14.可变参数.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/LearningOfC__.dir/build.make CMakeFiles/LearningOfC__.dir/14.可变参数.cpp.i
+.PHONY : 14.可变参数.cpp.i
+
+14.可变参数.s: 14.可变参数.cpp.s
+
+.PHONY : 14.可变参数.s
+
+# target to generate assembly for a file
+14.可变参数.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/LearningOfC__.dir/build.make CMakeFiles/LearningOfC__.dir/14.可变参数.cpp.s
+.PHONY : 14.可变参数.cpp.s
+
+15.静态变量和静态方法.o: 15.静态变量和静态方法.cpp.o
+
+.PHONY : 15.静态变量和静态方法.o
+
+# target to build an object file
+15.静态变量和静态方法.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/LearningOfC__.dir/build.make CMakeFiles/LearningOfC__.dir/15.静态变量和静态方法.cpp.o
+.PHONY : 15.静态变量和静态方法.cpp.o
+
+15.静态变量和静态方法.i: 15.静态变量和静态方法.cpp.i
+
+.PHONY : 15.静态变量和静态方法.i
+
+# target to preprocess a source file
+15.静态变量和静态方法.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/LearningOfC__.dir/build.make CMakeFiles/LearningOfC__.dir/15.静态变量和静态方法.cpp.i
+.PHONY : 15.静态变量和静态方法.cpp.i
+
+15.静态变量和静态方法.s: 15.静态变量和静态方法.cpp.s
+
+.PHONY : 15.静态变量和静态方法.s
+
+# target to generate assembly for a file
+15.静态变量和静态方法.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/LearningOfC__.dir/build.make CMakeFiles/LearningOfC__.dir/15.静态变量和静态方法.cpp.s
+.PHONY : 15.静态变量和静态方法.cpp.s
+
+16.const修饰方法.o: 16.const修饰方法.cpp.o
+
+.PHONY : 16.const修饰方法.o
+
+# target to build an object file
+16.const修饰方法.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/LearningOfC__.dir/build.make CMakeFiles/LearningOfC__.dir/16.const修饰方法.cpp.o
+.PHONY : 16.const修饰方法.cpp.o
+
+16.const修饰方法.i: 16.const修饰方法.cpp.i
+
+.PHONY : 16.const修饰方法.i
+
+# target to preprocess a source file
+16.const修饰方法.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/LearningOfC__.dir/build.make CMakeFiles/LearningOfC__.dir/16.const修饰方法.cpp.i
+.PHONY : 16.const修饰方法.cpp.i
+
+16.const修饰方法.s: 16.const修饰方法.cpp.s
+
+.PHONY : 16.const修饰方法.s
+
+# target to generate assembly for a file
+16.const修饰方法.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/LearningOfC__.dir/build.make CMakeFiles/LearningOfC__.dir/16.const修饰方法.cpp.s
+.PHONY : 16.const修饰方法.cpp.s
+
+17.友元函数.o: 17.友元函数.cpp.o
+
+.PHONY : 17.友元函数.o
+
+# target to build an object file
+17.友元函数.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/LearningOfC__.dir/build.make CMakeFiles/LearningOfC__.dir/17.友元函数.cpp.o
+.PHONY : 17.友元函数.cpp.o
+
+17.友元函数.i: 17.友元函数.cpp.i
+
+.PHONY : 17.友元函数.i
+
+# target to preprocess a source file
+17.友元函数.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/LearningOfC__.dir/build.make CMakeFiles/LearningOfC__.dir/17.友元函数.cpp.i
+.PHONY : 17.友元函数.cpp.i
+
+17.友元函数.s: 17.友元函数.cpp.s
+
+.PHONY : 17.友元函数.s
+
+# target to generate assembly for a file
+17.友元函数.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/LearningOfC__.dir/build.make CMakeFiles/LearningOfC__.dir/17.友元函数.cpp.s
+.PHONY : 17.友元函数.cpp.s
+
+18.友元类.o: 18.友元类.cpp.o
+
+.PHONY : 18.友元类.o
+
+# target to build an object file
+18.友元类.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/LearningOfC__.dir/build.make CMakeFiles/LearningOfC__.dir/18.友元类.cpp.o
+.PHONY : 18.友元类.cpp.o
+
+18.友元类.i: 18.友元类.cpp.i
+
+.PHONY : 18.友元类.i
+
+# target to preprocess a source file
+18.友元类.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/LearningOfC__.dir/build.make CMakeFiles/LearningOfC__.dir/18.友元类.cpp.i
+.PHONY : 18.友元类.cpp.i
+
+18.友元类.s: 18.友元类.cpp.s
+
+.PHONY : 18.友元类.s
+
+# target to generate assembly for a file
+18.友元类.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/LearningOfC__.dir/build.make CMakeFiles/LearningOfC__.dir/18.友元类.cpp.s
+.PHONY : 18.友元类.cpp.s
+
+19.函数总结.o: 19.函数总结.cpp.o
+
+.PHONY : 19.函数总结.o
+
+# target to build an object file
+19.函数总结.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/LearningOfC__.dir/build.make CMakeFiles/LearningOfC__.dir/19.函数总结.cpp.o
+.PHONY : 19.函数总结.cpp.o
+
+19.函数总结.i: 19.函数总结.cpp.i
+
+.PHONY : 19.函数总结.i
+
+# target to preprocess a source file
+19.函数总结.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/LearningOfC__.dir/build.make CMakeFiles/LearningOfC__.dir/19.函数总结.cpp.i
+.PHONY : 19.函数总结.cpp.i
+
+19.函数总结.s: 19.函数总结.cpp.s
+
+.PHONY : 19.函数总结.s
+
+# target to generate assembly for a file
+19.函数总结.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/LearningOfC__.dir/build.make CMakeFiles/LearningOfC__.dir/19.函数总结.cpp.s
+.PHONY : 19.函数总结.cpp.s
+
+20.类外运算符重载.o: 20.类外运算符重载.cpp.o
+
+.PHONY : 20.类外运算符重载.o
+
+# target to build an object file
+20.类外运算符重载.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/LearningOfC__.dir/build.make CMakeFiles/LearningOfC__.dir/20.类外运算符重载.cpp.o
+.PHONY : 20.类外运算符重载.cpp.o
+
+20.类外运算符重载.i: 20.类外运算符重载.cpp.i
+
+.PHONY : 20.类外运算符重载.i
+
+# target to preprocess a source file
+20.类外运算符重载.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/LearningOfC__.dir/build.make CMakeFiles/LearningOfC__.dir/20.类外运算符重载.cpp.i
+.PHONY : 20.类外运算符重载.cpp.i
+
+20.类外运算符重载.s: 20.类外运算符重载.cpp.s
+
+.PHONY : 20.类外运算符重载.s
+
+# target to generate assembly for a file
+20.类外运算符重载.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/LearningOfC__.dir/build.make CMakeFiles/LearningOfC__.dir/20.类外运算符重载.cpp.s
+.PHONY : 20.类外运算符重载.cpp.s
+
+21.类内运算符重载.o: 21.类内运算符重载.cpp.o
+
+.PHONY : 21.类内运算符重载.o
+
+# target to build an object file
+21.类内运算符重载.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/LearningOfC__.dir/build.make CMakeFiles/LearningOfC__.dir/21.类内运算符重载.cpp.o
+.PHONY : 21.类内运算符重载.cpp.o
+
+21.类内运算符重载.i: 21.类内运算符重载.cpp.i
+
+.PHONY : 21.类内运算符重载.i
+
+# target to preprocess a source file
+21.类内运算符重载.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/LearningOfC__.dir/build.make CMakeFiles/LearningOfC__.dir/21.类内运算符重载.cpp.i
+.PHONY : 21.类内运算符重载.cpp.i
+
+21.类内运算符重载.s: 21.类内运算符重载.cpp.s
+
+.PHONY : 21.类内运算符重载.s
+
+# target to generate assembly for a file
+21.类内运算符重载.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/LearningOfC__.dir/build.make CMakeFiles/LearningOfC__.dir/21.类内运算符重载.cpp.s
+.PHONY : 21.类内运算符重载.cpp.s
+
+22.继承.o: 22.继承.cpp.o
+
+.PHONY : 22.继承.o
+
+# target to build an object file
+22.继承.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/LearningOfC__.dir/build.make CMakeFiles/LearningOfC__.dir/22.继承.cpp.o
+.PHONY : 22.继承.cpp.o
+
+22.继承.i: 22.继承.cpp.i
+
+.PHONY : 22.继承.i
+
+# target to preprocess a source file
+22.继承.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/LearningOfC__.dir/build.make CMakeFiles/LearningOfC__.dir/22.继承.cpp.i
+.PHONY : 22.继承.cpp.i
+
+22.继承.s: 22.继承.cpp.s
+
+.PHONY : 22.继承.s
+
+# target to generate assembly for a file
+22.继承.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/LearningOfC__.dir/build.make CMakeFiles/LearningOfC__.dir/22.继承.cpp.s
+.PHONY : 22.继承.cpp.s
+
+23.多继承.o: 23.多继承.cpp.o
+
+.PHONY : 23.多继承.o
+
+# target to build an object file
+23.多继承.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/LearningOfC__.dir/build.make CMakeFiles/LearningOfC__.dir/23.多继承.cpp.o
+.PHONY : 23.多继承.cpp.o
+
+23.多继承.i: 23.多继承.cpp.i
+
+.PHONY : 23.多继承.i
+
+# target to preprocess a source file
+23.多继承.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/LearningOfC__.dir/build.make CMakeFiles/LearningOfC__.dir/23.多继承.cpp.i
+.PHONY : 23.多继承.cpp.i
+
+23.多继承.s: 23.多继承.cpp.s
+
+.PHONY : 23.多继承.s
+
+# target to generate assembly for a file
+23.多继承.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/LearningOfC__.dir/build.make CMakeFiles/LearningOfC__.dir/23.多继承.cpp.s
+.PHONY : 23.多继承.cpp.s
+
+24.虚基类.o: 24.虚基类.cpp.o
+
+.PHONY : 24.虚基类.o
+
+# target to build an object file
+24.虚基类.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/LearningOfC__.dir/build.make CMakeFiles/LearningOfC__.dir/24.虚基类.cpp.o
+.PHONY : 24.虚基类.cpp.o
+
+24.虚基类.i: 24.虚基类.cpp.i
+
+.PHONY : 24.虚基类.i
+
+# target to preprocess a source file
+24.虚基类.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/LearningOfC__.dir/build.make CMakeFiles/LearningOfC__.dir/24.虚基类.cpp.i
+.PHONY : 24.虚基类.cpp.i
+
+24.虚基类.s: 24.虚基类.cpp.s
+
+.PHONY : 24.虚基类.s
+
+# target to generate assembly for a file
+24.虚基类.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/LearningOfC__.dir/build.make CMakeFiles/LearningOfC__.dir/24.虚基类.cpp.s
+.PHONY : 24.虚基类.cpp.s
+
 Manager.o: Manager.cpp.o
 
 .PHONY : Manager.o
@@ -520,6 +817,60 @@ Manager.s: Manager.cpp.s
 Manager.cpp.s:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/LearningOfC__.dir/build.make CMakeFiles/LearningOfC__.dir/Manager.cpp.s
 .PHONY : Manager.cpp.s
+
+TestMethod.o: TestMethod.cpp.o
+
+.PHONY : TestMethod.o
+
+# target to build an object file
+TestMethod.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/LearningOfC__.dir/build.make CMakeFiles/LearningOfC__.dir/TestMethod.cpp.o
+.PHONY : TestMethod.cpp.o
+
+TestMethod.i: TestMethod.cpp.i
+
+.PHONY : TestMethod.i
+
+# target to preprocess a source file
+TestMethod.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/LearningOfC__.dir/build.make CMakeFiles/LearningOfC__.dir/TestMethod.cpp.i
+.PHONY : TestMethod.cpp.i
+
+TestMethod.s: TestMethod.cpp.s
+
+.PHONY : TestMethod.s
+
+# target to generate assembly for a file
+TestMethod.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/LearningOfC__.dir/build.make CMakeFiles/LearningOfC__.dir/TestMethod.cpp.s
+.PHONY : TestMethod.cpp.s
+
+TestStatic.o: TestStatic.cpp.o
+
+.PHONY : TestStatic.o
+
+# target to build an object file
+TestStatic.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/LearningOfC__.dir/build.make CMakeFiles/LearningOfC__.dir/TestStatic.cpp.o
+.PHONY : TestStatic.cpp.o
+
+TestStatic.i: TestStatic.cpp.i
+
+.PHONY : TestStatic.i
+
+# target to preprocess a source file
+TestStatic.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/LearningOfC__.dir/build.make CMakeFiles/LearningOfC__.dir/TestStatic.cpp.i
+.PHONY : TestStatic.cpp.i
+
+TestStatic.s: TestStatic.cpp.s
+
+.PHONY : TestStatic.s
+
+# target to generate assembly for a file
+TestStatic.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/LearningOfC__.dir/build.make CMakeFiles/LearningOfC__.dir/TestStatic.cpp.s
+.PHONY : TestStatic.cpp.s
 
 # Help Target
 help:
@@ -569,9 +920,48 @@ help:
 	@echo "... 13.深拷贝.o"
 	@echo "... 13.深拷贝.i"
 	@echo "... 13.深拷贝.s"
+	@echo "... 14.可变参数.o"
+	@echo "... 14.可变参数.i"
+	@echo "... 14.可变参数.s"
+	@echo "... 15.静态变量和静态方法.o"
+	@echo "... 15.静态变量和静态方法.i"
+	@echo "... 15.静态变量和静态方法.s"
+	@echo "... 16.const修饰方法.o"
+	@echo "... 16.const修饰方法.i"
+	@echo "... 16.const修饰方法.s"
+	@echo "... 17.友元函数.o"
+	@echo "... 17.友元函数.i"
+	@echo "... 17.友元函数.s"
+	@echo "... 18.友元类.o"
+	@echo "... 18.友元类.i"
+	@echo "... 18.友元类.s"
+	@echo "... 19.函数总结.o"
+	@echo "... 19.函数总结.i"
+	@echo "... 19.函数总结.s"
+	@echo "... 20.类外运算符重载.o"
+	@echo "... 20.类外运算符重载.i"
+	@echo "... 20.类外运算符重载.s"
+	@echo "... 21.类内运算符重载.o"
+	@echo "... 21.类内运算符重载.i"
+	@echo "... 21.类内运算符重载.s"
+	@echo "... 22.继承.o"
+	@echo "... 22.继承.i"
+	@echo "... 22.继承.s"
+	@echo "... 23.多继承.o"
+	@echo "... 23.多继承.i"
+	@echo "... 23.多继承.s"
+	@echo "... 24.虚基类.o"
+	@echo "... 24.虚基类.i"
+	@echo "... 24.虚基类.s"
 	@echo "... Manager.o"
 	@echo "... Manager.i"
 	@echo "... Manager.s"
+	@echo "... TestMethod.o"
+	@echo "... TestMethod.i"
+	@echo "... TestMethod.s"
+	@echo "... TestStatic.o"
+	@echo "... TestStatic.i"
+	@echo "... TestStatic.s"
 .PHONY : help
 
 
