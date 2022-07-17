@@ -1,0 +1,16 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/renzhenming/CLionProjects/LearningOfC++/08.CPP面向对象的特性.cpp
+Manager.h
+/Users/renzhenming/CLionProjects/LearningOfC++/Manager.h
+iostream
+-
+
+/Users/renzhenming/CLionProjects/LearningOfC++/Manager.h
+
