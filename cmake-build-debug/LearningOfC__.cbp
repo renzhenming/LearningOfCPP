@@ -102,6 +102,21 @@
 		<Unit filename="/Users/renzhenming/CLionProjects/LearningOfC++/08.CPP面向对象的特性.cpp">
 			<Option target="LearningOfC__"/>
 		</Unit>
+		<Unit filename="/Users/renzhenming/CLionProjects/LearningOfC++/09.命名空间.cpp">
+			<Option target="LearningOfC__"/>
+		</Unit>
+		<Unit filename="/Users/renzhenming/CLionProjects/LearningOfC++/10.构造函数、拷贝构造函数、析构函数.cpp">
+			<Option target="LearningOfC__"/>
+		</Unit>
+		<Unit filename="/Users/renzhenming/CLionProjects/LearningOfC++/11.指针常量和常量指针.cpp">
+			<Option target="LearningOfC__"/>
+		</Unit>
+		<Unit filename="/Users/renzhenming/CLionProjects/LearningOfC++/12.浅拷贝.cpp">
+			<Option target="LearningOfC__"/>
+		</Unit>
+		<Unit filename="/Users/renzhenming/CLionProjects/LearningOfC++/13.深拷贝.cpp">
+			<Option target="LearningOfC__"/>
+		</Unit>
 		<Unit filename="/Users/renzhenming/CLionProjects/LearningOfC++/Manager.cpp">
 			<Option target="LearningOfC__"/>
 		</Unit>

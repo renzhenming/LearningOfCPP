@@ -194,6 +194,71 @@ CMakeFiles/LearningOfC__.dir/Manager.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/LearningOfC__.dir/Manager.cpp.s"
 	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/renzhenming/CLionProjects/LearningOfC++/Manager.cpp -o CMakeFiles/LearningOfC__.dir/Manager.cpp.s
 
+CMakeFiles/LearningOfC__.dir/09.命名空间.cpp.o: CMakeFiles/LearningOfC__.dir/flags.make
+CMakeFiles/LearningOfC__.dir/09.命名空间.cpp.o: ../09.命名空间.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/renzhenming/CLionProjects/LearningOfC++/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_10) "Building CXX object CMakeFiles/LearningOfC__.dir/09.命名空间.cpp.o"
+	/Library/Developer/CommandLineTools/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/LearningOfC__.dir/09.命名空间.cpp.o -c /Users/renzhenming/CLionProjects/LearningOfC++/09.命名空间.cpp
+
+CMakeFiles/LearningOfC__.dir/09.命名空间.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/LearningOfC__.dir/09.命名空间.cpp.i"
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/renzhenming/CLionProjects/LearningOfC++/09.命名空间.cpp > CMakeFiles/LearningOfC__.dir/09.命名空间.cpp.i
+
+CMakeFiles/LearningOfC__.dir/09.命名空间.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/LearningOfC__.dir/09.命名空间.cpp.s"
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/renzhenming/CLionProjects/LearningOfC++/09.命名空间.cpp -o CMakeFiles/LearningOfC__.dir/09.命名空间.cpp.s
+
+CMakeFiles/LearningOfC__.dir/10.构造函数、拷贝构造函数、析构函数.cpp.o: CMakeFiles/LearningOfC__.dir/flags.make
+CMakeFiles/LearningOfC__.dir/10.构造函数、拷贝构造函数、析构函数.cpp.o: ../10.构造函数、拷贝构造函数、析构函数.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/renzhenming/CLionProjects/LearningOfC++/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_11) "Building CXX object CMakeFiles/LearningOfC__.dir/10.构造函数、拷贝构造函数、析构函数.cpp.o"
+	/Library/Developer/CommandLineTools/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/LearningOfC__.dir/10.构造函数、拷贝构造函数、析构函数.cpp.o -c /Users/renzhenming/CLionProjects/LearningOfC++/10.构造函数、拷贝构造函数、析构函数.cpp
+
+CMakeFiles/LearningOfC__.dir/10.构造函数、拷贝构造函数、析构函数.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/LearningOfC__.dir/10.构造函数、拷贝构造函数、析构函数.cpp.i"
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/renzhenming/CLionProjects/LearningOfC++/10.构造函数、拷贝构造函数、析构函数.cpp > CMakeFiles/LearningOfC__.dir/10.构造函数、拷贝构造函数、析构函数.cpp.i
+
+CMakeFiles/LearningOfC__.dir/10.构造函数、拷贝构造函数、析构函数.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/LearningOfC__.dir/10.构造函数、拷贝构造函数、析构函数.cpp.s"
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/renzhenming/CLionProjects/LearningOfC++/10.构造函数、拷贝构造函数、析构函数.cpp -o CMakeFiles/LearningOfC__.dir/10.构造函数、拷贝构造函数、析构函数.cpp.s
+
+CMakeFiles/LearningOfC__.dir/11.指针常量和常量指针.cpp.o: CMakeFiles/LearningOfC__.dir/flags.make
+CMakeFiles/LearningOfC__.dir/11.指针常量和常量指针.cpp.o: ../11.指针常量和常量指针.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/renzhenming/CLionProjects/LearningOfC++/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_12) "Building CXX object CMakeFiles/LearningOfC__.dir/11.指针常量和常量指针.cpp.o"
+	/Library/Developer/CommandLineTools/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/LearningOfC__.dir/11.指针常量和常量指针.cpp.o -c /Users/renzhenming/CLionProjects/LearningOfC++/11.指针常量和常量指针.cpp
+
+CMakeFiles/LearningOfC__.dir/11.指针常量和常量指针.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/LearningOfC__.dir/11.指针常量和常量指针.cpp.i"
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/renzhenming/CLionProjects/LearningOfC++/11.指针常量和常量指针.cpp > CMakeFiles/LearningOfC__.dir/11.指针常量和常量指针.cpp.i
+
+CMakeFiles/LearningOfC__.dir/11.指针常量和常量指针.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/LearningOfC__.dir/11.指针常量和常量指针.cpp.s"
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/renzhenming/CLionProjects/LearningOfC++/11.指针常量和常量指针.cpp -o CMakeFiles/LearningOfC__.dir/11.指针常量和常量指针.cpp.s
+
+CMakeFiles/LearningOfC__.dir/12.浅拷贝.cpp.o: CMakeFiles/LearningOfC__.dir/flags.make
+CMakeFiles/LearningOfC__.dir/12.浅拷贝.cpp.o: ../12.浅拷贝.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/renzhenming/CLionProjects/LearningOfC++/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_13) "Building CXX object CMakeFiles/LearningOfC__.dir/12.浅拷贝.cpp.o"
+	/Library/Developer/CommandLineTools/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/LearningOfC__.dir/12.浅拷贝.cpp.o -c /Users/renzhenming/CLionProjects/LearningOfC++/12.浅拷贝.cpp
+
+CMakeFiles/LearningOfC__.dir/12.浅拷贝.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/LearningOfC__.dir/12.浅拷贝.cpp.i"
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/renzhenming/CLionProjects/LearningOfC++/12.浅拷贝.cpp > CMakeFiles/LearningOfC__.dir/12.浅拷贝.cpp.i
+
+CMakeFiles/LearningOfC__.dir/12.浅拷贝.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/LearningOfC__.dir/12.浅拷贝.cpp.s"
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/renzhenming/CLionProjects/LearningOfC++/12.浅拷贝.cpp -o CMakeFiles/LearningOfC__.dir/12.浅拷贝.cpp.s
+
+CMakeFiles/LearningOfC__.dir/13.深拷贝.cpp.o: CMakeFiles/LearningOfC__.dir/flags.make
+CMakeFiles/LearningOfC__.dir/13.深拷贝.cpp.o: ../13.深拷贝.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/renzhenming/CLionProjects/LearningOfC++/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_14) "Building CXX object CMakeFiles/LearningOfC__.dir/13.深拷贝.cpp.o"
+	/Library/Developer/CommandLineTools/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/LearningOfC__.dir/13.深拷贝.cpp.o -c /Users/renzhenming/CLionProjects/LearningOfC++/13.深拷贝.cpp
+
+CMakeFiles/LearningOfC__.dir/13.深拷贝.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/LearningOfC__.dir/13.深拷贝.cpp.i"
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/renzhenming/CLionProjects/LearningOfC++/13.深拷贝.cpp > CMakeFiles/LearningOfC__.dir/13.深拷贝.cpp.i
+
+CMakeFiles/LearningOfC__.dir/13.深拷贝.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/LearningOfC__.dir/13.深拷贝.cpp.s"
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/renzhenming/CLionProjects/LearningOfC++/13.深拷贝.cpp -o CMakeFiles/LearningOfC__.dir/13.深拷贝.cpp.s
+
 # Object files for target LearningOfC__
 LearningOfC___OBJECTS = \
 "CMakeFiles/LearningOfC__.dir/01.CPP的标准库.cpp.o" \
@@ -204,7 +269,12 @@ LearningOfC___OBJECTS = \
 "CMakeFiles/LearningOfC__.dir/06.CPP默认参数.cpp.o" \
 "CMakeFiles/LearningOfC__.dir/07.CPP预留参数.cpp.o" \
 "CMakeFiles/LearningOfC__.dir/08.CPP面向对象的特性.cpp.o" \
-"CMakeFiles/LearningOfC__.dir/Manager.cpp.o"
+"CMakeFiles/LearningOfC__.dir/Manager.cpp.o" \
+"CMakeFiles/LearningOfC__.dir/09.命名空间.cpp.o" \
+"CMakeFiles/LearningOfC__.dir/10.构造函数、拷贝构造函数、析构函数.cpp.o" \
+"CMakeFiles/LearningOfC__.dir/11.指针常量和常量指针.cpp.o" \
+"CMakeFiles/LearningOfC__.dir/12.浅拷贝.cpp.o" \
+"CMakeFiles/LearningOfC__.dir/13.深拷贝.cpp.o"
 
 # External object files for target LearningOfC__
 LearningOfC___EXTERNAL_OBJECTS =
@@ -218,9 +288,14 @@ LearningOfC__: CMakeFiles/LearningOfC__.dir/06.CPP默认参数.cpp.o
 LearningOfC__: CMakeFiles/LearningOfC__.dir/07.CPP预留参数.cpp.o
 LearningOfC__: CMakeFiles/LearningOfC__.dir/08.CPP面向对象的特性.cpp.o
 LearningOfC__: CMakeFiles/LearningOfC__.dir/Manager.cpp.o
+LearningOfC__: CMakeFiles/LearningOfC__.dir/09.命名空间.cpp.o
+LearningOfC__: CMakeFiles/LearningOfC__.dir/10.构造函数、拷贝构造函数、析构函数.cpp.o
+LearningOfC__: CMakeFiles/LearningOfC__.dir/11.指针常量和常量指针.cpp.o
+LearningOfC__: CMakeFiles/LearningOfC__.dir/12.浅拷贝.cpp.o
+LearningOfC__: CMakeFiles/LearningOfC__.dir/13.深拷贝.cpp.o
 LearningOfC__: CMakeFiles/LearningOfC__.dir/build.make
 LearningOfC__: CMakeFiles/LearningOfC__.dir/link.txt
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=/Users/renzhenming/CLionProjects/LearningOfC++/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_10) "Linking CXX executable LearningOfC__"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=/Users/renzhenming/CLionProjects/LearningOfC++/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_15) "Linking CXX executable LearningOfC__"
 	$(CMAKE_COMMAND) -E cmake_link_script CMakeFiles/LearningOfC__.dir/link.txt --verbose=$(VERBOSE)
 
 # Rule to build all files generated by this target.

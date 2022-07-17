@@ -6,11 +6,9 @@
 
 #IncludeRegexTransform: 
 
-/Users/renzhenming/CLionProjects/LearningOfC++/08.CPP面向对象的特性.cpp
-Manager.h
-/Users/renzhenming/CLionProjects/LearningOfC++/Manager.h
+/Users/renzhenming/CLionProjects/LearningOfC++/13.深拷贝.cpp
 iostream
 -
-
-/Users/renzhenming/CLionProjects/LearningOfC++/Manager.h
+string.h
+-
 

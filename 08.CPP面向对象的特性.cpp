@@ -7,7 +7,7 @@
 
 using namespace std;
 
-int main() {
+int main08() {
     // 栈区开辟空间的
     Manager manager;
     cout << "name = " << manager.getName() << " age = " << manager.getAge() << endl;
