@@ -150,6 +150,9 @@
 		<Unit filename="/Users/renzhenming/CLionProjects/LearningOfC++/24.虚基类.cpp">
 			<Option target="LearningOfC__"/>
 		</Unit>
+		<Unit filename="/Users/renzhenming/CLionProjects/LearningOfC++/25.模版函数.cpp">
+			<Option target="LearningOfC__"/>
+		</Unit>
 		<Unit filename="/Users/renzhenming/CLionProjects/LearningOfC++/Manager.cpp">
 			<Option target="LearningOfC__"/>
 		</Unit>

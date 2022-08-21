@@ -52,6 +52,8 @@ CMakeFiles/LearningOfC__.dir/23.多继承.cpp.o: ../23.多继承.cpp
 
 CMakeFiles/LearningOfC__.dir/24.虚基类.cpp.o: ../24.虚基类.cpp
 
+CMakeFiles/LearningOfC__.dir/25.模版函数.cpp.o: ../25.模版函数.cpp
+
 CMakeFiles/LearningOfC__.dir/Manager.cpp.o: ../Manager.cpp
 CMakeFiles/LearningOfC__.dir/Manager.cpp.o: ../Manager.h
 

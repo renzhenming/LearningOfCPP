@@ -791,6 +791,33 @@ LearningOfC__/fast:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/LearningOfC__.dir/build.make CMakeFiles/LearningOfC__.dir/24.虚基类.cpp.s
 .PHONY : 24.虚基类.cpp.s
 
+25.模版函数.o: 25.模版函数.cpp.o
+
+.PHONY : 25.模版函数.o
+
+# target to build an object file
+25.模版函数.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/LearningOfC__.dir/build.make CMakeFiles/LearningOfC__.dir/25.模版函数.cpp.o
+.PHONY : 25.模版函数.cpp.o
+
+25.模版函数.i: 25.模版函数.cpp.i
+
+.PHONY : 25.模版函数.i
+
+# target to preprocess a source file
+25.模版函数.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/LearningOfC__.dir/build.make CMakeFiles/LearningOfC__.dir/25.模版函数.cpp.i
+.PHONY : 25.模版函数.cpp.i
+
+25.模版函数.s: 25.模版函数.cpp.s
+
+.PHONY : 25.模版函数.s
+
+# target to generate assembly for a file
+25.模版函数.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/LearningOfC__.dir/build.make CMakeFiles/LearningOfC__.dir/25.模版函数.cpp.s
+.PHONY : 25.模版函数.cpp.s
+
 Manager.o: Manager.cpp.o
 
 .PHONY : Manager.o
@@ -953,6 +980,9 @@ help:
 	@echo "... 24.虚基类.o"
 	@echo "... 24.虚基类.i"
 	@echo "... 24.虚基类.s"
+	@echo "... 25.模版函数.o"
+	@echo "... 25.模版函数.i"
+	@echo "... 25.模版函数.s"
 	@echo "... Manager.o"
 	@echo "... Manager.i"
 	@echo "... Manager.s"

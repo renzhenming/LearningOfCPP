@@ -6,11 +6,7 @@
 
 #IncludeRegexTransform: 
 
-/Users/renzhenming/CLionProjects/LearningOfC++/23.多继承.cpp
+/Users/renzhenming/CLionProjects/LearningOfC++/25.模版函数.cpp
 iostream
-/Users/renzhenming/CLionProjects/LearningOfC++/iostream
-
-/Users/renzhenming/CLionProjects/LearningOfC++/24.虚基类.cpp
-iostream
-/Users/renzhenming/CLionProjects/LearningOfC++/iostream
+-
 

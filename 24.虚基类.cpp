@@ -24,7 +24,7 @@ class Common: public Base1, public Base2{
 
 };
 
-int main(){
+int main24(){
     Object object;
     Base1 baseActivity1;
     Base2 baseActivity2;

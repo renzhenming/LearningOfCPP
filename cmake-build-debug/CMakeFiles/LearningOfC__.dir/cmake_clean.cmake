@@ -23,6 +23,7 @@ file(REMOVE_RECURSE
   "CMakeFiles/LearningOfC__.dir/22.继承.cpp.o"
   "CMakeFiles/LearningOfC__.dir/23.多继承.cpp.o"
   "CMakeFiles/LearningOfC__.dir/24.虚基类.cpp.o"
+  "CMakeFiles/LearningOfC__.dir/25.模版函数.cpp.o"
   "CMakeFiles/LearningOfC__.dir/Manager.cpp.o"
   "CMakeFiles/LearningOfC__.dir/TestMethod.cpp.o"
   "CMakeFiles/LearningOfC__.dir/TestStatic.cpp.o"
