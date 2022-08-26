@@ -54,6 +54,12 @@ CMakeFiles/LearningOfC__.dir/24.虚基类.cpp.o: ../24.虚基类.cpp
 
 CMakeFiles/LearningOfC__.dir/25.模版函数.cpp.o: ../25.模版函数.cpp
 
+CMakeFiles/LearningOfC__.dir/26.goto语句.cpp.o: ../26.goto语句.cpp
+
+CMakeFiles/LearningOfC__.dir/27.虚函数.cpp.o: ../27.虚函数.cpp
+
+CMakeFiles/LearningOfC__.dir/28.纯虚函数.cpp.o: ../28.纯虚函数.cpp
+
 CMakeFiles/LearningOfC__.dir/Manager.cpp.o: ../Manager.cpp
 CMakeFiles/LearningOfC__.dir/Manager.cpp.o: ../Manager.h
 

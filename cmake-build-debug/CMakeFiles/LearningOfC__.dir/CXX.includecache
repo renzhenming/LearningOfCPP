@@ -6,7 +6,11 @@
 
 #IncludeRegexTransform: 
 
-/Users/renzhenming/CLionProjects/LearningOfC++/25.模版函数.cpp
+/Users/renzhenming/CLionProjects/LearningOfC++/27.虚函数.cpp
+iostream
+-
+
+/Users/renzhenming/CLionProjects/LearningOfC++/28.纯虚函数.cpp
 iostream
 -
 

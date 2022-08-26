@@ -818,6 +818,87 @@ LearningOfC__/fast:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/LearningOfC__.dir/build.make CMakeFiles/LearningOfC__.dir/25.模版函数.cpp.s
 .PHONY : 25.模版函数.cpp.s
 
+26.goto语句.o: 26.goto语句.cpp.o
+
+.PHONY : 26.goto语句.o
+
+# target to build an object file
+26.goto语句.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/LearningOfC__.dir/build.make CMakeFiles/LearningOfC__.dir/26.goto语句.cpp.o
+.PHONY : 26.goto语句.cpp.o
+
+26.goto语句.i: 26.goto语句.cpp.i
+
+.PHONY : 26.goto语句.i
+
+# target to preprocess a source file
+26.goto语句.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/LearningOfC__.dir/build.make CMakeFiles/LearningOfC__.dir/26.goto语句.cpp.i
+.PHONY : 26.goto语句.cpp.i
+
+26.goto语句.s: 26.goto语句.cpp.s
+
+.PHONY : 26.goto语句.s
+
+# target to generate assembly for a file
+26.goto语句.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/LearningOfC__.dir/build.make CMakeFiles/LearningOfC__.dir/26.goto语句.cpp.s
+.PHONY : 26.goto语句.cpp.s
+
+27.虚函数.o: 27.虚函数.cpp.o
+
+.PHONY : 27.虚函数.o
+
+# target to build an object file
+27.虚函数.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/LearningOfC__.dir/build.make CMakeFiles/LearningOfC__.dir/27.虚函数.cpp.o
+.PHONY : 27.虚函数.cpp.o
+
+27.虚函数.i: 27.虚函数.cpp.i
+
+.PHONY : 27.虚函数.i
+
+# target to preprocess a source file
+27.虚函数.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/LearningOfC__.dir/build.make CMakeFiles/LearningOfC__.dir/27.虚函数.cpp.i
+.PHONY : 27.虚函数.cpp.i
+
+27.虚函数.s: 27.虚函数.cpp.s
+
+.PHONY : 27.虚函数.s
+
+# target to generate assembly for a file
+27.虚函数.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/LearningOfC__.dir/build.make CMakeFiles/LearningOfC__.dir/27.虚函数.cpp.s
+.PHONY : 27.虚函数.cpp.s
+
+28.纯虚函数.o: 28.纯虚函数.cpp.o
+
+.PHONY : 28.纯虚函数.o
+
+# target to build an object file
+28.纯虚函数.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/LearningOfC__.dir/build.make CMakeFiles/LearningOfC__.dir/28.纯虚函数.cpp.o
+.PHONY : 28.纯虚函数.cpp.o
+
+28.纯虚函数.i: 28.纯虚函数.cpp.i
+
+.PHONY : 28.纯虚函数.i
+
+# target to preprocess a source file
+28.纯虚函数.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/LearningOfC__.dir/build.make CMakeFiles/LearningOfC__.dir/28.纯虚函数.cpp.i
+.PHONY : 28.纯虚函数.cpp.i
+
+28.纯虚函数.s: 28.纯虚函数.cpp.s
+
+.PHONY : 28.纯虚函数.s
+
+# target to generate assembly for a file
+28.纯虚函数.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/LearningOfC__.dir/build.make CMakeFiles/LearningOfC__.dir/28.纯虚函数.cpp.s
+.PHONY : 28.纯虚函数.cpp.s
+
 Manager.o: Manager.cpp.o
 
 .PHONY : Manager.o
@@ -983,6 +1064,15 @@ help:
 	@echo "... 25.模版函数.o"
 	@echo "... 25.模版函数.i"
 	@echo "... 25.模版函数.s"
+	@echo "... 26.goto语句.o"
+	@echo "... 26.goto语句.i"
+	@echo "... 26.goto语句.s"
+	@echo "... 27.虚函数.o"
+	@echo "... 27.虚函数.i"
+	@echo "... 27.虚函数.s"
+	@echo "... 28.纯虚函数.o"
+	@echo "... 28.纯虚函数.i"
+	@echo "... 28.纯虚函数.s"
 	@echo "... Manager.o"
 	@echo "... Manager.i"
 	@echo "... Manager.s"

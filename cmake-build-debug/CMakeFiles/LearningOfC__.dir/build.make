@@ -441,6 +441,45 @@ CMakeFiles/LearningOfC__.dir/25.模版函数.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/LearningOfC__.dir/25.模版函数.cpp.s"
 	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/renzhenming/CLionProjects/LearningOfC++/25.模版函数.cpp -o CMakeFiles/LearningOfC__.dir/25.模版函数.cpp.s
 
+CMakeFiles/LearningOfC__.dir/26.goto语句.cpp.o: CMakeFiles/LearningOfC__.dir/flags.make
+CMakeFiles/LearningOfC__.dir/26.goto语句.cpp.o: ../26.goto语句.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/renzhenming/CLionProjects/LearningOfC++/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_29) "Building CXX object CMakeFiles/LearningOfC__.dir/26.goto语句.cpp.o"
+	/Library/Developer/CommandLineTools/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/LearningOfC__.dir/26.goto语句.cpp.o -c /Users/renzhenming/CLionProjects/LearningOfC++/26.goto语句.cpp
+
+CMakeFiles/LearningOfC__.dir/26.goto语句.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/LearningOfC__.dir/26.goto语句.cpp.i"
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/renzhenming/CLionProjects/LearningOfC++/26.goto语句.cpp > CMakeFiles/LearningOfC__.dir/26.goto语句.cpp.i
+
+CMakeFiles/LearningOfC__.dir/26.goto语句.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/LearningOfC__.dir/26.goto语句.cpp.s"
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/renzhenming/CLionProjects/LearningOfC++/26.goto语句.cpp -o CMakeFiles/LearningOfC__.dir/26.goto语句.cpp.s
+
+CMakeFiles/LearningOfC__.dir/27.虚函数.cpp.o: CMakeFiles/LearningOfC__.dir/flags.make
+CMakeFiles/LearningOfC__.dir/27.虚函数.cpp.o: ../27.虚函数.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/renzhenming/CLionProjects/LearningOfC++/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_30) "Building CXX object CMakeFiles/LearningOfC__.dir/27.虚函数.cpp.o"
+	/Library/Developer/CommandLineTools/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/LearningOfC__.dir/27.虚函数.cpp.o -c /Users/renzhenming/CLionProjects/LearningOfC++/27.虚函数.cpp
+
+CMakeFiles/LearningOfC__.dir/27.虚函数.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/LearningOfC__.dir/27.虚函数.cpp.i"
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/renzhenming/CLionProjects/LearningOfC++/27.虚函数.cpp > CMakeFiles/LearningOfC__.dir/27.虚函数.cpp.i
+
+CMakeFiles/LearningOfC__.dir/27.虚函数.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/LearningOfC__.dir/27.虚函数.cpp.s"
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/renzhenming/CLionProjects/LearningOfC++/27.虚函数.cpp -o CMakeFiles/LearningOfC__.dir/27.虚函数.cpp.s
+
+CMakeFiles/LearningOfC__.dir/28.纯虚函数.cpp.o: CMakeFiles/LearningOfC__.dir/flags.make
+CMakeFiles/LearningOfC__.dir/28.纯虚函数.cpp.o: ../28.纯虚函数.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/renzhenming/CLionProjects/LearningOfC++/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_31) "Building CXX object CMakeFiles/LearningOfC__.dir/28.纯虚函数.cpp.o"
+	/Library/Developer/CommandLineTools/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/LearningOfC__.dir/28.纯虚函数.cpp.o -c /Users/renzhenming/CLionProjects/LearningOfC++/28.纯虚函数.cpp
+
+CMakeFiles/LearningOfC__.dir/28.纯虚函数.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/LearningOfC__.dir/28.纯虚函数.cpp.i"
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/renzhenming/CLionProjects/LearningOfC++/28.纯虚函数.cpp > CMakeFiles/LearningOfC__.dir/28.纯虚函数.cpp.i
+
+CMakeFiles/LearningOfC__.dir/28.纯虚函数.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/LearningOfC__.dir/28.纯虚函数.cpp.s"
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/renzhenming/CLionProjects/LearningOfC++/28.纯虚函数.cpp -o CMakeFiles/LearningOfC__.dir/28.纯虚函数.cpp.s
+
 # Object files for target LearningOfC__
 LearningOfC___OBJECTS = \
 "CMakeFiles/LearningOfC__.dir/01.CPP的标准库.cpp.o" \
@@ -470,7 +509,10 @@ LearningOfC___OBJECTS = \
 "CMakeFiles/LearningOfC__.dir/22.继承.cpp.o" \
 "CMakeFiles/LearningOfC__.dir/23.多继承.cpp.o" \
 "CMakeFiles/LearningOfC__.dir/24.虚基类.cpp.o" \
-"CMakeFiles/LearningOfC__.dir/25.模版函数.cpp.o"
+"CMakeFiles/LearningOfC__.dir/25.模版函数.cpp.o" \
+"CMakeFiles/LearningOfC__.dir/26.goto语句.cpp.o" \
+"CMakeFiles/LearningOfC__.dir/27.虚函数.cpp.o" \
+"CMakeFiles/LearningOfC__.dir/28.纯虚函数.cpp.o"
 
 # External object files for target LearningOfC__
 LearningOfC___EXTERNAL_OBJECTS =
@@ -503,9 +545,12 @@ LearningOfC__: CMakeFiles/LearningOfC__.dir/22.继承.cpp.o
 LearningOfC__: CMakeFiles/LearningOfC__.dir/23.多继承.cpp.o
 LearningOfC__: CMakeFiles/LearningOfC__.dir/24.虚基类.cpp.o
 LearningOfC__: CMakeFiles/LearningOfC__.dir/25.模版函数.cpp.o
+LearningOfC__: CMakeFiles/LearningOfC__.dir/26.goto语句.cpp.o
+LearningOfC__: CMakeFiles/LearningOfC__.dir/27.虚函数.cpp.o
+LearningOfC__: CMakeFiles/LearningOfC__.dir/28.纯虚函数.cpp.o
 LearningOfC__: CMakeFiles/LearningOfC__.dir/build.make
 LearningOfC__: CMakeFiles/LearningOfC__.dir/link.txt
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=/Users/renzhenming/CLionProjects/LearningOfC++/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_29) "Linking CXX executable LearningOfC__"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=/Users/renzhenming/CLionProjects/LearningOfC++/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_32) "Linking CXX executable LearningOfC__"
 	$(CMAKE_COMMAND) -E cmake_link_script CMakeFiles/LearningOfC__.dir/link.txt --verbose=$(VERBOSE)
 
 # Rule to build all files generated by this target.

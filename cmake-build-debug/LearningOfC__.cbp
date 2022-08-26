@@ -153,6 +153,15 @@
 		<Unit filename="/Users/renzhenming/CLionProjects/LearningOfC++/25.模版函数.cpp">
 			<Option target="LearningOfC__"/>
 		</Unit>
+		<Unit filename="/Users/renzhenming/CLionProjects/LearningOfC++/26.goto语句.cpp">
+			<Option target="LearningOfC__"/>
+		</Unit>
+		<Unit filename="/Users/renzhenming/CLionProjects/LearningOfC++/27.虚函数.cpp">
+			<Option target="LearningOfC__"/>
+		</Unit>
+		<Unit filename="/Users/renzhenming/CLionProjects/LearningOfC++/28.纯虚函数.cpp">
+			<Option target="LearningOfC__"/>
+		</Unit>
 		<Unit filename="/Users/renzhenming/CLionProjects/LearningOfC++/Manager.cpp">
 			<Option target="LearningOfC__"/>
 		</Unit>

@@ -40,7 +40,7 @@ void Swap2(R &a, R &b) {
     cout << "交换后" << "a = " << a << "b = " << b << endl;
 }
 
-int main() {
+int main25() {
     int n = 1, m = 2;
     Swap(n, m);  //编译器自动生成 void Swap (int &, int &)函数
     double f = 1.2, g = 2.3;
